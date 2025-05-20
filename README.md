@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 </div>
 -->
 
-<div align="left">
+<div align="center">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2>
   <div>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 </div>
 <br/>
 
-<div style="text-align: left;">
+<div align="center">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2>
   <div style="text-align: left;">
     <a href="mailto:nakt4453@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:nakt4453@gmail.com"> </a>
@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 </div>
 <br/>
 
-<div style="text-align: left;"> 
+<div align="center"> 
   <h2 style="border-bottom: 1px solid #; color: #282d33;"> 🏅 Stats </h2> 
   <div style="text-align: left;"> 
     <img src=https://github-readme-stats.vercel.app/api?username=Nagi-ei&show_icons=true />
